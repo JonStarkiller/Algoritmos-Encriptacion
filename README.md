@@ -67,7 +67,7 @@ Basado en el axioma criptográfico de Auguste Kerckhoffs: *la seguridad de un cr
 
 ## 👤 Autor
 
-**J. Luis Rey**  
+**Jonathan Rey**  
 *Licenciatura en Ciberdefensa — FADENA (Facultad de Defensa Nacional)*
 
 ---
